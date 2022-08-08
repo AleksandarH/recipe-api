@@ -42,6 +42,22 @@
         "rum",
         "maslac"
       ]
+    },
+    {
+      "id": "HR-18",
+      "županija": "Istarska županija",
+      "jelo": "Kraljevski pljukavci",
+      "slikaJela": "https://podravkaiovariations.azureedge.net/7c876522-638d-11eb-b1f5-0242ac120060/v/f2b1f6a6-64bc-11eb-b6c2-0242ac130010/480x360-f2b21622-64bc-11eb-a2bd-0242ac130010.webp",
+      "recept": "Umiješamo brašno, jaja, sol i vodu u gusto tijesto. Iskomadane komadiće tijesta među dlanovima oblikujemo u pljukance. Kuhamo ih u zasoljenoj vreloj vodi 15 minuta. Kuhane procijedimo, stavimo u zdjelu, zalijemo maslinovim uljem i naribanim ili sitno isjeckanim tartufima, koje prethodno popržimo na maslacu i ribanom siru. Poslužimo u košarici koju smo napravili od ribanog parmezana.",
+
+      "sastojci": [
+        "400 g brašna",
+        "2 jaja",
+        "100 g tartufa",
+        "0,5 dl maslinovog ulja",
+        "50 g ribanog parmezana",
+        "10 g soli"
+      ]
     }
   ]
 }
