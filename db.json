@@ -1,6 +1,7 @@
 {
   "jela": [
     {
+      "id": "HR-02",
       "županija": "Krapinsko-zagorska županija",
       "jelo": "Štrukli od sira",
       "slikaJela": "https://podravkaiovariations.azureedge.net/bf4c3a14-63be-11eb-abe9-0242ac120086/v/f2b1f6a6-64bc-11eb-b6c2-0242ac130010/1024x768-f2b21802-64bc-11eb-a115-0242ac130010.webp",
@@ -19,6 +20,7 @@
       ]
     },
     {
+      "id": "HR-20",
       "županija": "Međimurska županija",
       "jelo": "Međimurska gibanica",
       "slikaJela": "https://www.kuhaona.com/wp-content/uploads/2018/03/mgibanica.jpg",
