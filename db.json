@@ -58,6 +58,55 @@
         "50 g ribanog parmezana",
         "10 g soli"
       ]
+    },
+    {
+      "id": "HR-14",
+      "županija": "Osječko-baranjska županija",
+      "jelo": "Šaran u rašljama",
+      "slikaJela": "https://www.turistickeprice.hr/wp-content/uploads/2020/05/saran-raslje-2.jpg",
+      "recept": "Ribu očistiti i otvoriti pored leđne kosti po cijeloj dužini, uključujući i glavu šarana. Tako otvorenog šarana dobro posoliti, razmazati blago po cijeloj površini sitno mljevenom baranjskom paprikom. Poprskati (špricom) s uljem i ostaviti u hladnjaku da odleži 12 sati. Stavimo ga u drvene rašlje pored jako razgorene vatre (tj. žari) uz povremeno okretanje. Nakon 2,5 h šaran se polagano iscijedio od viška masnoće i poprima žarko zlatnu boju.",
+
+      "sastojci": ["šaran od 2,5 kg", "sol", "sitno mljevena slatka paprika"]
+    },
+    {
+      "id": "HR-17",
+      "županija": "Splitsko-dalmatinska županija",
+      "jelo": "Crni rižoto",
+      "slikaJela": "https://camping-simuni.hr/wp-content/uploads/2018/11/black-risotto.jpg",
+      "recept": "Na miješanom ulju (pola biljnog- pola maslinovog) zažutimo luk, a zatim dodamo nasjeckanu sipu, očišćene dagnje i narezane lignje. To dobro pirjamo, zajedno sa začinima (peršin, papar, vegeta, češnjak i pire od rajčica). Prelijemo bijelim vinom, dodamo sirovu rižu, a potom zalijemo vodom i zacrnimo crnilom od sipe. U rižoto dodamo 'školjke' u kućici (dagnje, brbavice) i škampe. Uz jelo poslužimo narib ani parmezan",
+
+      "sastojci": [
+        "0,2 kg sipa",
+        "0,2 kg dagnji",
+        "0,2 kg lignji",
+        "0,1 kg luka",
+        "0,15 l ulja (maslinovo i biljno)",
+        "1 žlica pirea od rajčica",
+        "0,1 l bijela vina",
+        "sol, papar, vegeta",
+        "peršin i češnjak - po želji",
+        "0,3 kg sirove riže",
+        "crnilo od sipe prema potrebi"
+      ]
+    },
+    {
+      "id": "HR-08",
+      "županija": "Primorsko-goranska županija",
+      "jelo": "Sote od divljači",
+      "slikaJela": "https://podravkaiovariations.azureedge.net/f807b7b0-610d-11eb-8ed3-0242ac120040/v/f2b1f6a6-64bc-11eb-b6c2-0242ac130010/1600x1200-f2b21938-64bc-11eb-9498-0242ac130010.jpeg",
+      "recept": "Na vrućem ulju pirjamo kapulu. Kada uvene dodamo meso divljači (prethodno marinirano u senfu i ulju) narezano na trakice i pirjamo. Kada je meso omekša dodamo gljive te još kratko pirjamo. Podlijemo crnim vinom i mesnim temeljcem, pustimo da prokuha te dodamo borovnice. Začinimo, dodamo kap slatkog vrhnja i poslužimo uz domaće njoke ili lovačke knedle. ",
+
+      "sastojci": [
+        "350 g jelena",
+        "1 kapula",
+        "ulje",
+        "senf",
+        "50 g šumskih borovnica",
+        "100 g gljiva (vrganji, šampinjoni)",
+        "začini",
+        "crno vino",
+        "slatko vrhnje"
+      ]
     }
   ]
 }
