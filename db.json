@@ -197,6 +197,153 @@
         "brašno",
         "sol, papar i vegeta"
       ]
+    },
+    {
+      "id": "HR-10",
+      "županija": "Virovitičko-podravska županija",
+      "jelo": "Purica punjena sirom",
+      "slikaJela": "https://podravkaiovariations.azureedge.net/a147f088-6424-11eb-8900-0242ac120010/v/f2b1f6a6-64bc-11eb-b6c2-0242ac130010/1024x768-f2b21802-64bc-11eb-a115-0242ac130010.webp",
+      "recept": "Pureća prsa filetirajte, narežite na male odreske, posolite, popaprite posipajte vegetom i žlicom crvene paprike u prahu. Svaki odrezak punite ploškom sira 'Podravca'. Zarolajte, omotajte tankom ploškom hamburgera, nabodite na drveni štapić i pecite na roštilju. Pečene rolice skinite sa štapića i servirajte. Kao prilog servirajte kuhani krumpir preliven zapečenim kiselim vrhnjem.",
+
+      "sastojci": [
+        "pureća prsa",
+        "sir Podravec",
+        "hamburger",
+        "sol",
+        "papar",
+        "crvene paprika u prahu",
+        "vegeta",
+        "kiselo vrhnje",
+        "krumpir"
+      ]
+    },
+    {
+      "id": "HR-16",
+      "županija": "Vukovarsko-srijemska županija",
+      "jelo": "Kulen",
+      "slikaJela": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Kulin_%28serviran%29.jpg/800px-Kulin_%28serviran%29.jpg",
+      "recept": "Svinjsko meso (vratina ili plećka) narezati na sitne kockice, posipati mljevenom ljutom i slatkom crvenom paprikom, posoliti i popapriti. Dodati sitno isjeckani češnjak i dobro izmiješati. Mesom nadjenuti crijevo koje je prethodno držano u vodi. Paziti da ne ostane zračnih mjehurića. Nadjeveno crijevo povezati koncem i staviti sušiti na dim. Kulen je tipični slavonski specijalitet s dugom tradicijom pripremanja. Danas postoji svetkovina kulena na kojoj se biraju najbolje pripremljeni kuleni individualnih proizvođača. Mnogi od njih čuvaju tajnu vlastitog načina pripreme",
+
+      "sastojci": [
+        "1,5 svinjskog mesa",
+        "5 dag češnjaka",
+        "1 dag krupno mljevena papra",
+        "2,5 dag soli",
+        "2 dag ljute crvene paprike",
+        "2 dag slatke crvene paprike",
+        "1 svinjsko slijepo crijevo"
+      ]
+    },
+    {
+      "id": "HR-12",
+      "županija": "Brodsko-posavska županija",
+      "jelo": "Medaljoni jelena",
+      "slikaJela": "https://www.gastronaut.hr/media/cache/6f/47/6f4759834360e2e835546e1ce5d6a8fb.jpg",
+      "recept": "Medaljone ispečemo na tavici. Kad su gotovi stavimo ih sa strane, a u tavici ispržimo slaninu i gljive. Dodajemo crno vino, umak od pečenja i džem od brusnice. Pustimo da tekućina malo reducira. Medaljone prelijemo umakom i poslužimo sa domaćim njokima.",
+
+      "sastojci": [
+        "220 g medaljona od jelena",
+        "50 g slanine",
+        "50 g šumskih gljiva",
+        "20 g džema od brusnice",
+        "2 cl crnog vina",
+        "2 dl umaka od pečenja",
+        "začini po želji",
+        "1 cl ulja"
+      ]
+    },
+    {
+      "id": "HR-06",
+      "županija": "Koprivničko-križevačka županija",
+      "jelo": "Pogača sa orasima",
+      "slikaJela": "https://podravkaiovariations.azureedge.net/47ffdbee-63b6-11eb-99f1-0242ac120028/v/f2b1f6a6-64bc-11eb-b6c2-0242ac130010/1600x1200-f2b21938-64bc-11eb-9498-0242ac130010.jpeg",
+      "recept": "Od brašna, mlijeka i soli zamijesi se glatko tijesto. Razvalja se u veliki mlinac debljine 3-4 mm, polovica se posipa zašećerenim orasima, stučenim u moždaru pa preklopi drugom polovicom tijesta. Tada se ponovo razvalja i preklopi. To se ponavlja više puta, sve dok se ne dobije veličina koja odgovara veličini posude u kojoj će se pogača peći. Umjesto oraha može se upotrijebiti mak ili stučene koštice bundeve (žufe). Pečenu pogaču poškropi se vodom.",
+
+      "sastojci": [
+        "1500 g pšeničnog brašna",
+        "1 l mlijeka",
+        "10 g soli",
+        "500 g oraha",
+        "100 g šećera"
+      ]
+    },
+    {
+      "id": "HR-07",
+      "županija": "Bjelovarsko-bilogorska županija",
+      "jelo": "Pržene jabuke",
+      "slikaJela": "https://gastro.24sata.hr/media/img/f1/8c/b51f10e8bc9ec418d07f.jpeg",
+      "recept": "Miješati žumanjke i šećer. Brašno i vino dodavati naizmjence te umiješati snijeg. Dodati na vrh noža sode bikarbone. Jabuke oguliti i izrezati na ploške i stavljati plošku po plošku u tijesto. ploške žlicom stavljati u zagrijani margarin i pržiti ih s obje strane. Kad su gotovo posuti ih šećerom.",
+
+      "sastojci": [
+        "2 žumanjka",
+        "20 g šećera",
+        "120 g brašna",
+        "1 i pol dl vina",
+        "snijeg od 2 bjelanjka",
+        "500 g jabuka",
+        "200 g margarina",
+        "30 g šećera za posipanje",
+        "soda bikarbona"
+      ]
+    },
+    {
+      "id": "HR-13",
+      "županija": "Zadarska županija",
+      "jelo": "Ražnjići od ribe i tikvica",
+      "slikaJela": "http://www.centarzdravlja.hr/site/assets/files/44106/raznjici6.jpg",
+      "recept": "Oslića narezati na komade, uvaljati ga u mrvice u koje su umiješani sjeckani peršin i češnjak. Sve preliti uljem i limunovim sokom. Ostaviti da se marinira 1 sat. Ribu ocijediti i nabadati na ražnjiće, naizmjenično s kolutovima luka i tikvica, komadima slanine i lovorovim listovima. Peći na roštilju i povremeno zalijevati ostacima marinade. Posoliti i popapriti.",
+
+      "sastojci": [
+        "50 dag oslića",
+        "3 tikvice",
+        "glavica luka",
+        "20 dag suhe pancete",
+        "lovorovo lišće",
+        "peršin",
+        "papar, sol",
+        "3 režnja češnjaka",
+        "1 limun",
+        "mrvice"
+      ]
+    },
+    {
+      "id": "HR-21",
+      "županija": "Grad Zagreb",
+      "jelo": "Narodni gulaš",
+      "slikaJela": "https://njamfood.com/wp-content/uploads/2019/08/kesteni-7.jpg",
+      "recept": "Meso od goveđeg vrata oprati i narezati na kockice. U posudu staviti 10 dag na kocke narezane dimljene slanine i 3-4 velika sitno isjeckana luka. Dodati meso, posoliti, popapriti i poklopljeno pirjati često okrećući. Kad dio soka reducira, skinuti poklopac, neprestano miješajući dok sok ne dobije tamnu boju. Doliti toliko vode da bude prilično soka, jer gulaš treba načiniti dosta juhe. Dodati na kocke narezan krumpir da zajedno kuha, a može se poslužiti i bez krumpira.",
+
+      "sastojci": [
+        "goveđi vrat",
+        "100 g dimljene slanine",
+        "3-4 velika luka",
+        "sol i papar",
+        "krumpir"
+      ]
+    },
+    {
+      "id": "HR-19",
+      "županija": "Dubrovačko-neretvanska županija",
+      "jelo": "Pašticada",
+      "slikaJela": "https://prirodna.hr/site/slike/junetina/pasticada.jpg",
+      "recept": "Duguljasto narežemo češnjak i slaninu te ih nabodemo u goveđi but, kao i klinčiće. But ostavimo preko noći u marinadi od octa, lovora i papra u zrnu uz povremeno okretanje. Kapulu, mrkvu i celer narežemo na kolutiće i popržimo na zagrijanom ulju. Začinimo oraščićem, šećerom, paprom i solju. Dodamo meso iz marinade i popržimo ga sa svih strana. Postupno dolijevamo vino i rajčicu te pirjamo na laganoj vatri 3-4 sata. Gotovo meso izvadimo te izrežemo na ploške i vratimo u umak. Nastavimo pirjati 10 minuta. Umak procijedimo, a povrće propasiramo ili odstranimo. Poslužimo uz njoke od krumpira.",
+
+      "sastojci": [
+        "800 g goveđeg buta",
+        "2 glavice kapule",
+        "5 režnja češnjaka",
+        "5 klinčića",
+        "60 g pancete",
+        "korijen celera",
+        "lovorov list",
+        "ružmarin",
+        "3 mrkve",
+        "300 g rajčice",
+        "prstohvat muškatnog oraščića",
+        "žlica šećera",
+        "1 dl prošeka",
+        "1 dl ulja"
+      ]
     }
   ]
 }
