@@ -107,6 +107,96 @@
         "crno vino",
         "slatko vrhnje"
       ]
+    },
+    {
+      "id": "HR-09",
+      "županija": "Ličko-senjska županija",
+      "jelo": "Knedla od kestena",
+      "slikaJela": "https://www.vecernji.hr/media/img/74/d5/d47a2df416da94ed188c.jpeg",
+      "recept": "Zamijesimo tijesto od krumpira, griza, jaja, maslaca i oštrog brašna. Narežemo ga na krugove. Napravimo kuglice od zaslađenog kestena te sve zajedno oblikujemo u knedlu. Skuhamo u kipućoj vodi. Napravimo preljev od vrhnja za kuhanje i tekuće čokolade te ga zgusnemo gustinom.",
+
+      "sastojci": [
+        "krumpir",
+        "griz",
+        "jaja",
+        "maslac",
+        "oštro brašno",
+        "zaslađeni kesten",
+        "vrhnje za kuhanje",
+        "tekuća čokolada"
+      ]
+    },
+    {
+      "id": "HR-03",
+      "županija": "Sisačko-moslavačka županija",
+      "jelo": "Zapečeni grah",
+      "slikaJela": "https://www.maminkutak.com/wp-content/uploads/2019/02/zapeceni-grah-1.jpg",
+      "recept": "Na propasiranio korijenasto povrće sa špekom dodaje se prstohvat brašna, slatke crvene paprike, sol, papar, feferona i na pola skuhani grah sa vodom u kojoj je kuhan. Sve zajedno se promiješa i stavlja u pećnicu. Zapeći dok voda ne ispari.",
+
+      "sastojci": [
+        "korijenasto povrće",
+        "grah",
+        "špek",
+        "prstohvat brašna",
+        "prstohvat slatke crvene paprike",
+        "sol, papar",
+        "feferoni"
+      ]
+    },
+    {
+      "id": "HR-11",
+      "županija": "Požeško-slavonska županija",
+      "jelo": "Krem juha od batata",
+      "slikaJela": "https://www.novilist.hr/wp-content/uploads/2020/06/Lagana-vecera-Krem-juha-od-batata.jpg",
+      "recept": "Pire od narančastog batata  pripremimo tako da 400 g batata u kori pečemo na 170°C sat vremena. Ostavimo ga da se ohladi te ga potom pasiramo. Zakuhamo vodu u koju dodajemo pire od batata i povrtnu kocku. Začinimo je mljevenim paprom. Preostalih 100 g svježeg batata isjeckamo na manje kocke, sotiramo u tavi na maslacu i začinimo po želji. Pred kraj kuhanja dodamo ih u juhu. Jelo aranžiramo cvjetovima brokule i prepečenim komadićima kruha.",
+
+      "sastojci": [
+        "1,8 l vode",
+        "500 g batata",
+        "3 povrtne kocke",
+        "mljeveni bijeli papar",
+        "50 g maslaca",
+        "sol",
+        "papar"
+      ]
+    },
+    {
+      "id": "HR-04",
+      "županija": "Karlovačka županija",
+      "jelo": "Ječmenac od vrganja",
+      "slikaJela": "https://www.gastronaut.hr/media/uploads/2020/11/23/87672801_2684044001644280_1568033692947841024_n.jpg",
+      "recept": "Ječam kuhamo u temeljcu. Za to vrijeme na svinjskoj masti pirjamo narezani luk i češnjak u komadu, zajedno s lovorom. Kad luk odmekne, dodamo vrganje narezane na listiće i pirjamo 10-ak minuta. Zatim dodamo skuhani, ocijeđeni ječam. Sve zajedno izmiješamo i pirjamo nekoliko minuta da se sastojci povežu. Poslužimo s listićima pečenog špeka.",
+
+      "sastojci": [
+        "400 g ječma",
+        "600 g vrganja",
+        "1 list lovora",
+        "2 režnja češnjaka",
+        "150 g luka",
+        "80 g špeka",
+        "2 l temeljca od povrća",
+        "50 g svinjske masti",
+        "sol",
+        "papar"
+      ]
+    },
+    {
+      "id": "HR-01",
+      "županija": "Zagrebačka županija",
+      "jelo": "Kraljevski odrezak",
+      "slikaJela": "https://podravkaiovariations.azureedge.net/1e52f2d6-610e-11eb-9ac3-0242ac12004c/v/f2b1f6a6-64bc-11eb-b6c2-0242ac130010/1600x1200-f2b21938-64bc-11eb-9498-0242ac130010.jpeg",
+      "recept": "Teleće meso izrezati na odreske, potući ih, posoliti i prekriti pršutom. U sredinu staviti skuhane pureće bijele bubrege. Tako punjene odreske saviti kao rolade, uvaljati ih u brašno i opržiti na masnoći. Zalijemo temeljcem i pirjamo, dodamo šampinjone i začinimo. Na kraju dodamo kiselo vrhnje.",
+
+      "sastojci": [
+        "teleće meso",
+        "pršut",
+        "pureći bijeli bubrezi",
+        "maslac",
+        "šampinjoni",
+        "kiselo vrhnje",
+        "brašno",
+        "sol, papar i vegeta"
+      ]
     }
   ]
 }
