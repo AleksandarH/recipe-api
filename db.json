@@ -344,6 +344,40 @@
         "1 dl prošeka",
         "1 dl ulja"
       ]
+    },
+    {
+      "id": "HR-15",
+      "županija": "Šibensko-kninska županija",
+      "jelo": "Kuhane skuše",
+      "slikaJela": "https://bosanskikuhar.ba/images/recepti/skuse-ili-sardine-u-ulju.jpeg",
+      "recept": "Skuše očistite i stavite u hladnu vodu, kojoj ste dodali luk, papar i sol. Kad zakuhaju, kuhajte ih još 5 minuta. Ocijeđene ribe raspolovite, odstranite hrptenu kost i složite ih u tanjur. Slane srdele očistite i nasjeckajte zajedno s kaparima. Propržite ih na ulju, zalijte octom, te sve skupa prelijte preko skuša i ostavite nekoliko sati u hladioniku. Ovako pripremljene skuše vrlo su ukusne i prikladne kao samostalno jelo za večeru ili kao predjelo u svečanijim prilikama.",
+
+      "sastojci": [
+        "1 kg skuša",
+        "glavica luka",
+        "nekoliko zrna papra",
+        "ocat",
+        "4-5 slanih srdela",
+        "2 žlice kapara",
+        "2 dl ulja",
+        "0,5 dl octa"
+      ]
+    },
+    {
+      "id": "HR-05",
+      "županija": "Varaždinska županija",
+      "jelo": "Varaždinski klipići",
+      "slikaJela": "https://gastro.24sata.hr/media/img/f1/db/1a8701d7431e182d3405.jpeg",
+      "recept": "Kvasac stavi dizati zajedno sa svježim mlijekom, malo brašna i šećera. Brašno prosij, dodaj sol, ulje i dignuti kvas pa s mlijekom zamijesi mekano tijesto. Tijesto se mora jako dugo i dobro mijesiti da bude rahlo, a onda ga stavimo da se diže.Kada je dignuto, iz njega napravi 25 komada koje složiš u hljepčiće i njih opet stavi da se dižu. Svaki hljepčić se razvalja da bude dugačak otprilike 20 centimetara. Tijesto počni zamatati od dolje prema gore i usput ga rasteži u dužinu tako da klipiči budu dugi 25 centimetara. Složi ih na lim i stavi da se opet dižu. Premaži ih žumanjkom i pospi kuminom po želji. Peku se na 220°C - 10 do 12 minuta.",
+
+      "sastojci": [
+        "1 kg pšeničnog glatkog brašna",
+        "600 mL mlijeka",
+        "250 mL ulja",
+        "80 g svježeg kvasca",
+        "25 g soli",
+        "1/2 jaja kumin malo šećera"
+      ]
     }
   ]
 }
